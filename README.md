@@ -5,9 +5,9 @@ It lets User perform multiple operations like:-
 
 1- User can Create his Personal login for security purposes.
 
-2- User can Add customers and Calculate their Electricity Bill.
+2- User can Add customers and Calculate their Bill.
 
-3- User can Pay Electricity Bills.
+3- User can Pay  Bills.
 
 4- User can Generate Bill.
 
@@ -35,7 +35,7 @@ It contains 9 different classes which works together to create a better user exp
 ->Connection Setup class(JDBC - MySQL)
 
 ## Database (MySQL)
-Database for this Electricity Billing System contains 4 Tables
+Database for this  Billing System contains 4 Tables
 
 
 ->Login Table (UserName,Password)
@@ -49,7 +49,6 @@ Database for this Electricity Billing System contains 4 Tables
 
 Java communicates with MySQL tables using JDBC which stands for Java Database Connectivity.
 
-## Screenshots:
 
 ## Login
 
