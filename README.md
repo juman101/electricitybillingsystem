@@ -50,9 +50,7 @@ Database for this  Billing System contains 4 Tables
 Java communicates with MySQL tables using JDBC which stands for Java Database Connectivity.
 
 
-## Login
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Login.JPG" width="400" height="300">
 
 ## Main Page
 
